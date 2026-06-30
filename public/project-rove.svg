@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#8e85ff"/>
+  <path d="M0 220h1200v460H0z" fill="#151515"/>
+  <circle cx="105" cy="100" r="42" fill="#c8ff3d"/><circle cx="1095" cy="800" r="42" fill="#ff6b45"/>
+  <g fill="none" stroke="#c8ff3d" stroke-width="12"><circle cx="600" cy="450" r="250"/><circle cx="600" cy="450" r="175"/><circle cx="600" cy="450" r="100"/></g>
+  <path d="M290 570L450 300l105 180 120-210 235 300z" fill="#ff6b45"/>
+  <text x="70" y="480" font-family="Arial, sans-serif" font-size="205" font-weight="900" letter-spacing="-16" fill="#f3f0e8">ROVE</text>
+  <text x="70" y="775" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="7" fill="#151515">MUSIC / ART / OUTSIDE</text>
+  <text x="955" y="120" font-family="Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="5" fill="#151515">08—10 / 26</text>
+</svg>

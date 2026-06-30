@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#92dffb"/>
+  <rect y="640" width="1200" height="260" fill="#f3f0e8"/>
+  <path d="M80 640V270h250v370z" fill="#ff6b45"/>
+  <path d="M330 640V120h330v520z" fill="#f0cfff"/>
+  <path d="M660 640V220h460v420z" fill="#c8ff3d"/>
+  <g fill="#151515">
+    <rect x="130" y="340" width="75" height="130"/><rect x="240" y="340" width="40" height="75"/>
+    <rect x="390" y="200" width="85" height="180"/><rect x="520" y="250" width="70" height="70"/><rect x="390" y="455" width="200" height="90"/>
+    <rect x="735" y="300" width="120" height="160"/><rect x="900" y="300" width="140" height="75"/><rect x="900" y="420" width="70" height="140"/>
+  </g>
+  <circle cx="1060" cy="105" r="44" fill="#ffec5c"/>
+  <text x="82" y="770" font-family="Georgia, serif" font-size="78" font-style="italic" fill="#151515">Terra</text>
+  <text x="875" y="760" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="5" fill="#151515">HOMES FOR NOW</text>
+  <path d="M80 815h1040" stroke="#151515" stroke-width="3"/>
+</svg>

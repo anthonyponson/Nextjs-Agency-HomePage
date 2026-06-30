@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#ff6843"/>
+  <path d="M0 0h600v900H0z" fill="#f4efdf"/>
+  <circle cx="600" cy="450" r="285" fill="#151515"/>
+  <circle cx="600" cy="450" r="140" fill="#c8ff3d"/>
+  <path d="M600 310v280M460 450h280" stroke="#151515" stroke-width="12"/>
+  <text x="62" y="100" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="8" fill="#151515">KIYO COFFEE CO.</text>
+  <text x="647" y="825" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="6" fill="#151515">BRIGHT MORNINGS</text>
+  <g fill="#151515"><circle cx="82" cy="780" r="10"/><circle cx="122" cy="780" r="10"/><circle cx="162" cy="780" r="10"/></g>
+</svg>

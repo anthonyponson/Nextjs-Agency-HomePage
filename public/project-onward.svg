@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#c8ff3d"/>
+  <rect x="110" y="75" width="980" height="750" rx="26" fill="#111"/>
+  <circle cx="155" cy="118" r="9" fill="#ff6b45"/><circle cx="185" cy="118" r="9" fill="#c8ff3d"/><circle cx="215" cy="118" r="9" fill="#8e85ff"/>
+  <path d="M165 220h230M165 260h120" stroke="#fff" stroke-width="20" stroke-linecap="round"/>
+  <rect x="165" y="345" width="310" height="355" rx="20" fill="#574cff"/>
+  <rect x="505" y="345" width="530" height="165" rx="20" fill="#f4efdf"/>
+  <rect x="505" y="535" width="250" height="165" rx="20" fill="#ff6b45"/>
+  <rect x="780" y="535" width="255" height="165" rx="20" fill="#69d7ff"/>
+  <path d="M550 465l70-55 65 28 76-65 82 35 102-80" fill="none" stroke="#151515" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="620" cy="410" r="13" fill="#151515"/><circle cx="685" cy="438" r="13" fill="#151515"/><circle cx="761" cy="373" r="13" fill="#151515"/><circle cx="843" cy="408" r="13" fill="#151515"/>
+  <text x="198" y="650" font-family="Arial, sans-serif" font-size="90" font-weight="800" fill="#fff">64%</text>
+  <text x="198" y="560" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="4" fill="#fff">THIS MONTH</text>
+</svg>
