@@ -50,7 +50,7 @@ Morrow is a modern digital agency homepage featuring a bold hero section, servic
 ### Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/anthonyponson/Nextjs-Agency-HomePage
 ```
 
 ### Navigate to the project
